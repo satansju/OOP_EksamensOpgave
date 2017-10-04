@@ -1,0 +1,12 @@
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\StregSystemTests.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\StregSystemTests.pdb
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\obj\Debug\StregSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\obj\Debug\StregSystemTests.dll
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\StregSystemTests\obj\Debug\StregSystemTests.pdb
