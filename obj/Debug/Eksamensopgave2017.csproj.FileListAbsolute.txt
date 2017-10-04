@@ -1,0 +1,13 @@
+c:\users\thomas\documents\visual studio 2015\Projects\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.exe.config
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.csprojResolveAssemblyReference.cache
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.exe.config
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.exe
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.pdb
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.exe
+C:\Users\sataa\Documents\Visual Studio 2017\Projects\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.pdb
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.exe.config
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.exe
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\bin\Debug\Eksamensopgave2017.pdb
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.csprojResolveAssemblyReference.cache
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.exe
+C:\Users\sataa\Desktop\Skabelon til Eksamensopgaven 2017\Eksamensopgave2017\Eksamensopgave2017\obj\Debug\Eksamensopgave2017.pdb
